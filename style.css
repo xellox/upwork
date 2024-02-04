@@ -176,6 +176,10 @@ body{
     margin-bottom:50px;
 }
 
+.third-subtitle h1{
+    max-width:800px;
+}
+
 .fourth-container{
     margin-top:100px;
     flex-direction: column;
